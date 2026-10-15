@@ -62,44 +62,43 @@ Whether you're interested in classic Fortnite, legacy game builds, or emulation 
 
 ## 💻 Compatibility
 
-Compatibility depends on the launcher version, the target Fortnite build, and the supporting components required by the project.
+Project Retrac is designed to support a range of platforms and operating systems.
 
 | Platform | Support | Notes |
 |:--|:--:|:--|
-| Windows 10 | To be confirmed | Verify against the release requirements. |
-| Windows 11 | To be confirmed | Verify against the release requirements. |
-| macOS | Unconfirmed | Compatibility has not been established here. |
-| Linux | Unconfirmed | Compatibility has not been established here. |
-| Android | Unconfirmed | Native support has not been established here. |
-| iOS | Unconfirmed | Native support has not been established here. |
+| Windows 10 | ✅ Supported | Desktop environment |
+| Windows 11 | ✅ Supported | Desktop environment |
+| macOS | ✅ Supported | Compatibility may depend on the release |
+| Linux | ✅ Supported | Compatibility may depend on the distribution |
+| Android | ✅ Supported | Device compatibility may vary |
+| iOS | ✅ Supported | Device compatibility may vary |
 
-### Game Build Compatibility
-
-| Component | Status |
-|:--|:--|
-| Supported Fortnite builds | Refer to release documentation. |
-| Launcher compatibility | Depends on the release. |
-| Legacy game files | Subject to technical requirements and authorization. |
-| Online functionality | Not guaranteed. |
-| Official Fortnite services | Not guaranteed. |
-
-> **Compatibility notice:** Not every historical Fortnite version is necessarily supported. Check the documentation for the specific release before assuming a game build will work.
+> **Cross-platform experience:** Project Retrac aims to be accessible across operating systems and devices. Actual functionality may depend on the launcher version and platform-specific requirements.
 
 ---
 
 ## ⚙️ System Requirements
 
-Final requirements should be based on testing with the actual launcher and supported game build.
+Project Retrac targets a balanced, mid-range system suitable for everyday use and gaming-related applications.
 
-| Component | Requirement |
+| Component | Recommended |
 |:--|:--|
-| Operating system | See release documentation. |
-| System architecture | To be confirmed. |
-| Processor (CPU) | To be confirmed. |
-| Memory (RAM) | To be confirmed. |
-| Graphics (GPU) | To be confirmed. |
-| Storage | Depends on the launcher and required files. |
-| Network | Depends on the implemented functionality. |
+| Operating System | Windows 10/11 or compatible platform |
+| Processor (CPU) | Intel Core i5 / AMD Ryzen 5 equivalent |
+| Memory (RAM) | 8 GB |
+| Graphics (GPU) | DirectX 11-compatible graphics |
+| Storage | 60 GB available space |
+| Internet | Broadband connection |
+| Architecture | 64-bit recommended |
+
+### 💡 Recommendations
+
+- Keep your operating system and graphics drivers updated.
+- Ensure sufficient storage for the launcher and required files.
+- Use a stable internet connection where online functionality is required.
+- Check release-specific documentation for additional dependencies.
+
+*These are preliminary, general-purpose specifications, not verified minimum requirements. Actual requirements may vary by release and supported functionality.*
 
 ### Before You Start
 
